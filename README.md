@@ -17,6 +17,15 @@ Custom **PHP + MySQL** site for a chess club in Ponda, Goa
 - Stockfish engine integration for game analysis
 - Hash-based routing and `.htaccess` hardening on shared hosting
 
+### 🛠️ More projects
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [rag-chatbot](https://github.com/SamruddhBorker/rag-chatbot) | Answers questions about your own documents and cites its sources. Runs on a CPU with no API key. | Python · FAISS · Sentence Transformers · FLAN-T5 · Gradio |
+| [pgn-stats](https://github.com/SamruddhBorker/pgn-stats) | Command-line tool that streams PGN chess databases and reports results, openings and player records. | C++17 · CMake · doctest |
+| [chess-puzzle-trainer](https://github.com/SamruddhBorker/chess-puzzle-trainer) | Live Lichess puzzles with opponent replies, hints, streaks and a local rating. [Live demo](https://samruddhborker.github.io/chess-puzzle-trainer/) | JavaScript · chess.js · cm-chessboard · Lichess API |
+| [business-website-template](https://github.com/SamruddhBorker/business-website-template) | Reusable small-business website with a contact form and LocalBusiness SEO. [Live demo](https://samruddhborker.github.io/business-website-template/) | HTML · CSS · JavaScript · PHP |
+| [n8n-automation-workflows](https://github.com/SamruddhBorker/n8n-automation-workflows) | Ready-to-import workflows for AI lead scoring, document chat, customer support and social media posting. | n8n · OpenAI · Google Sheets · Telegram |
+
 ### 🧰 Tech stack
 **Web:** HTML · CSS · JavaScript · TypeScript · PHP · MySQL · WordPress  
 **Programming:** Python · C · C++  
