@@ -22,6 +22,9 @@ Custom **PHP + MySQL** site for a chess club in Ponda, Goa
 | --- | --- | --- |
 | [whatsapp-booking-bot](https://github.com/SamruddhBorker/whatsapp-booking-bot) | WhatsApp bot that lets customers book, check and cancel tables for cafés and restaurants, with owner alerts and secure webhooks. | Python · SQLite · WhatsApp Cloud API |
 | [restaurant-qr-menu](https://github.com/SamruddhBorker/restaurant-qr-menu) | QR-code menu for cafés and restaurants where sold-out dishes update live on customers' phones; staff manage stock and print table QR codes. | Python · SQLite · JavaScript |
+| [gst-invoice-helper](https://github.com/SamruddhBorker/gst-invoice-helper) | GST invoices for small Indian businesses with correct CGST/SGST/IGST, consecutive numbering and a monthly summary. | Python · SQLite · Decimal maths |
+| [appointment-reminders](https://github.com/SamruddhBorker/appointment-reminders) | Automatic WhatsApp and email reminders for clinics and salons, with a no-show report. | Python · SQLite · WhatsApp Cloud API |
+| [stay-pricing-tracker](https://github.com/SamruddhBorker/stay-pricing-tracker) | Nightly rate suggestions and occupancy tracking for guesthouses, tuned for Goa's tourist seasons. | Python · SQLite |
 | [rag-chatbot](https://github.com/SamruddhBorker/rag-chatbot) | Answers questions about your own documents and cites its sources. Runs on a CPU with no API key. | Python · FAISS · Sentence Transformers · FLAN-T5 · Gradio |
 | [pgn-stats](https://github.com/SamruddhBorker/pgn-stats) | Command-line tool that streams PGN chess databases and reports results, openings and player records. | C++17 · CMake · doctest |
 | [chess-puzzle-trainer](https://github.com/SamruddhBorker/chess-puzzle-trainer) | Live Lichess puzzles with opponent replies, hints, streaks and a local rating. [Live demo](https://samruddhborker.github.io/chess-puzzle-trainer/) | JavaScript · chess.js · cm-chessboard · Lichess API |
