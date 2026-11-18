@@ -36,6 +36,17 @@ Custom **PHP + MySQL** site for a chess club in Ponda, Goa
 | [file-organizer](https://github.com/SamruddhBorker/file-organizer) | Sorts a messy folder by file type, with dry-run preview and undo. | Python |
 | [terminal-snake](https://github.com/SamruddhBorker/terminal-snake) | Snake in the terminal for Windows, macOS and Linux. | Python |
 
+### 🧩 Tools for everyday problems
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [review-collector](https://github.com/SamruddhBorker/review-collector) | Politely asks customers for honest Google reviews, with consent, opt-out and no review gating. | Python · SQLite |
+| [placement-tracker](https://github.com/SamruddhBorker/placement-tracker) | Tracks internship applications, deadlines and follow-ups with a daily digest. | Python · SQLite |
+| [group-expense-splitter](https://github.com/SamruddhBorker/group-expense-splitter) | Splits trip costs exactly to the paisa and settles up with the fewest payments. | Python |
+| [timetable-planner](https://github.com/SamruddhBorker/timetable-planner) | Timetable and deadline alerts plus an earliest-deadline-first study plan. | Python |
+| [medicine-reminder](https://github.com/SamruddhBorker/medicine-reminder) | Medicine schedule that alerts caregivers about missed doses and low stock. | Python · SQLite |
+| [shorts-script-checker](https://github.com/SamruddhBorker/shorts-script-checker) | Scores a Short's script against retention rules before rendering. | Python |
+| [shorts-analytics](https://github.com/SamruddhBorker/shorts-analytics) | Finds which titles and topics get views from a YouTube Studio export. | Python |
+
 ### 🧰 Tech stack
 **Web:** HTML · CSS · JavaScript · TypeScript · PHP · MySQL · WordPress  
 **Programming:** Python · C · C++  
