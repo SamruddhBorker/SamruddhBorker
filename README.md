@@ -25,6 +25,11 @@ Custom **PHP + MySQL** site for a chess club in Ponda, Goa
 | [chess-puzzle-trainer](https://github.com/SamruddhBorker/chess-puzzle-trainer) | Live Lichess puzzles with opponent replies, hints, streaks and a local rating. [Live demo](https://samruddhborker.github.io/chess-puzzle-trainer/) | JavaScript · chess.js · cm-chessboard · Lichess API |
 | [business-website-template](https://github.com/SamruddhBorker/business-website-template) | Reusable small-business website with a contact form and LocalBusiness SEO. [Live demo](https://samruddhborker.github.io/business-website-template/) | HTML · CSS · JavaScript · PHP |
 | [n8n-automation-workflows](https://github.com/SamruddhBorker/n8n-automation-workflows) | Ready-to-import workflows for AI lead scoring, document chat, customer support and social media posting. | n8n · OpenAI · Google Sheets · Telegram |
+| [shorts-pipeline](https://github.com/SamruddhBorker/shorts-pipeline) | Turns a text script into a captioned vertical YouTube Short with voice-over, built for my own history channel. | Python · ffmpeg |
+| [shorts-export-checker](https://github.com/SamruddhBorker/shorts-export-checker) | Pre-upload checker for Shorts: 9:16, duration, file size and loop seam. | Python · ffmpeg · ffprobe |
+| [personal-dashboard](https://github.com/SamruddhBorker/personal-dashboard) | Local dashboard with live weather, a to-do list and an idea backlog. No dependencies. | Python · HTML · JavaScript |
+| [file-organizer](https://github.com/SamruddhBorker/file-organizer) | Sorts a messy folder by file type, with dry-run preview and undo. | Python |
+| [terminal-snake](https://github.com/SamruddhBorker/terminal-snake) | Snake in the terminal for Windows, macOS and Linux. | Python |
 
 ### 🧰 Tech stack
 **Web:** HTML · CSS · JavaScript · TypeScript · PHP · MySQL · WordPress  
