@@ -46,6 +46,13 @@ Custom **PHP + MySQL** site for a chess club in Ponda, Goa
 | [medicine-reminder](https://github.com/SamruddhBorker/medicine-reminder) | Medicine schedule that alerts caregivers about missed doses and low stock. | Python · SQLite |
 | [shorts-script-checker](https://github.com/SamruddhBorker/shorts-script-checker) | Scores a Short's script against retention rules before rendering. | Python |
 | [shorts-analytics](https://github.com/SamruddhBorker/shorts-analytics) | Finds which titles and topics get views from a YouTube Studio export. | Python |
+| [utility-bill-tracker](https://github.com/SamruddhBorker/utility-bill-tracker) | Flags unusual jumps in electricity and water bills, price changes and meter problems. | Python · SQLite |
+| [sms-budget](https://github.com/SamruddhBorker/sms-budget) | Private household budget built from bank and UPI messages, processed locally. | Python · SQLite |
+| [family-grocery-list](https://github.com/SamruddhBorker/family-grocery-list) | Shared grocery list that learns what you buy and suggests what is running out. | Python |
+| [notes-flashcards](https://github.com/SamruddhBorker/notes-flashcards) | Turns lecture notes into flashcards with SM-2 spaced repetition. | Python |
+| [weather-alerts](https://github.com/SamruddhBorker/weather-alerts) | Heat, heavy-rain and wind alerts for chosen places. No API key. | Python · Open-Meteo |
+| [emergency-alert-page](https://github.com/SamruddhBorker/emergency-alert-page) | One-tap page that shares your live location with trusted contacts. No server, no tracking. | JavaScript · PWA |
+| [waste-sorter](https://github.com/SamruddhBorker/waste-sorter) | Tells you which bin a household item goes in, with prep tips. | Python |
 
 ### 🧰 Tech stack
 **Web:** HTML · CSS · JavaScript · TypeScript · PHP · MySQL · WordPress  
