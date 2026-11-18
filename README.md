@@ -41,4 +41,4 @@ Custom **PHP + MySQL** site for a chess club in Ponda, Goa
 English · Hindi · Marathi · Konkani
 
 ### 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/samruddh-borker-8602293aa) · [serialschess.com](https://serialschess.com) · samruddhborker14@gmail.com
+[LinkedIn](https://www.linkedin.com/in/samruddh-borker-8602293aa) · [serialschess.com](https://serialschess.com)
